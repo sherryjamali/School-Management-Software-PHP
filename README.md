@@ -77,7 +77,7 @@ OurSchoolSoftware uses a number of open source projects to work properly:
 
 Want to contribute? Great!
 #
-#
+
 
 #### Support
 
