@@ -51,11 +51,6 @@ Download and install our free mobile application to stay up to date. Our Single 
   
   OurSchoolSoftware will also adopt to the ever changing needs of your school in order to give quality education services.
   
-
-#
-  
-
-#
 #
 
 ### Website
